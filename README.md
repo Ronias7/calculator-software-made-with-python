@@ -10,7 +10,7 @@ A simple calculator software for a school project. It includes a GUI made with T
 
 ## How to Use
 1. Navigate to the `src` folder.
-2. Double-click the `main.exe` file to launch the calculator.
+2. Double-click the `calculator.exe` file to launch the calculator.
 
 ## Requirements (For Developers)
 If you want to run the source code instead of the `.exe` file, you need:
