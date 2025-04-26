@@ -1,4 +1,4 @@
-# Calculator Software Using Python
+# Calculator Software made with Python
 
 A simple calculator software for a school project. It includes a GUI made with Tkinter.
 
